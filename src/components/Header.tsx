@@ -3,8 +3,7 @@ import { IoMdContact } from "react-icons/io";
 import { IoSearch } from "react-icons/io5";
 import { IoHeartOutline } from "react-icons/io5";
 import { IoCartOutline } from "react-icons/io5";
-import Image from "next/image";
-import Link from 'next/link';
+
 
 
 
